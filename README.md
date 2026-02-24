@@ -8,3 +8,4 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
+PROJECT_URL: https://leaveease-app.netlify.app/
